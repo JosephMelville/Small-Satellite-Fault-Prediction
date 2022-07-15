@@ -11,6 +11,7 @@ GNU General Public License along with this program. If not, see
 -------------------------------------------------------------------------
 IF THIS CODE IS USED FOR A RESEARCH PUBLICATION, please cite (): 
 
-Melville, J., Lopez, M., Crabtree, M., Harley, J.B., Lacy, S. (2022) Methods for Data-centric Small Satellite Anomaly Detection and Fault Prediction. Small Satellite Conference. Utah State University. Logan, Utah
-    
+Melville, J., Lopez, M., Crabtree, M., Harley, J.B., Lacy, S. (2022) Methods for Data-centric Small Satellite Anomaly Detection and Fault Prediction. Thirty-sixth annual Small Satellite Conference. Utah State University, Logan, Utah, United States
+
+Publication can be found here: http://digitalcommons.usu.edu/smallsat/
 -------------------------------------------------------------------------
