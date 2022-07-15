@@ -1,0 +1,17 @@
+cff-version: 1.0.0
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: Melville
+    given-names: Joseph
+  - family-names: Lopez
+    given-names: Michael
+  - family-names: Crabtree
+    given-names: Michael
+  - family-names: Harley
+    given-names: Joel
+  - family-names: Lacy
+    given-names: Seth
+title: "Methods for Data-centric Small Satellite Anomaly Detection and Fault Prediction"
+version: 1.0
+date-released: 2022-07-15
+url: "https://github.com/JosephMelville/Small-Satellite-Fault-Prediction.git"
